@@ -2,8 +2,8 @@
 
 ## Intent
 
-Inspired by numerous requests on the [Monika After Story]{https://github.com/Monika-After-Story/MonikaModDev}
-repository (specifically issues like [this one]{https://github.com/Monika-After-Story/MonikaModDev/issues/7486},
+Inspired by numerous requests on the [Monika After Story](https://github.com/Monika-After-Story/MonikaModDev)
+repository (specifically issues like [this one](https://github.com/Monika-After-Story/MonikaModDev/issues/7486),
 I wanted to experiment with emulating mood in a digital agent.
 
 I've been hoping to pick up Python for a little while -- this is a learning project for me, helped along by leveraging
